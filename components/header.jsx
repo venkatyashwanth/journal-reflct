@@ -1,7 +1,6 @@
 import { SignedIn, SignedOut, SignInButton, UserButton } from '@clerk/nextjs'
 import Image from 'next/image'
 import Link from 'next/link'
-import React from 'react'
 import { Button } from './ui/button'
 import { FolderOpen, PenBox } from 'lucide-react'
 import UserMenu from './user-menu'
